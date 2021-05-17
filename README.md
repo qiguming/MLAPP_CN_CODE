@@ -16,4 +16,5 @@
 新版的mlapp包含了更多内容，其中重点增加了deep learning相关的内容，并且涉及了很多最新的领域研究及相关论文，如 self-supervised learning 等，所引用的文献截止2020年，具有很强的时效性。
 
 **2021/5/17**--更新 deep learning. 13.2.4 节，属于初步翻译，相关表述待调整。
+
 **2021/5/12**--开始更新 mlapp 2021版本的翻译内容，Part III : deep learning.
